@@ -1,12 +1,6 @@
 
 # Database Normalization Lab - Lab #04
 
-**Student:** Feeza Kulsoom (2024-SE-03)  
-**Course:** Database Systems  
-**Instructor:** Engr. Muhammad Awais  
-**University:** University of Azad Jammu & Kashmir, Muzaffarabad  
-
----
 
 ## Objective
 
