@@ -1,11 +1,4 @@
 
-# Lab 3 - University Database & Keys Practice
-
-**Student:** Feeza Kulsoom (2024-SE-03)  
-**Course:** Database Systems  
-**University:** University of Azad Jammu & Kashmir, Muzaffarabad  
-
----
 
 ## Objective
 
