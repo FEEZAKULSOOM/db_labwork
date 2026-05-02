@@ -1,6 +1,5 @@
 
 
-```markdown
 # POS System Database - Lab Project
 
 **Student:** Feeza Kulsoom (2024-SE-03)  
