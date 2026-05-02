@@ -25,7 +25,7 @@ To convert unnormalized bookstore order data into 1NF, 2NF, and 3NF by identifyi
 
 | File | Description |
 |------|-------------|
-| `db_assignment_01_2024_SE_03_Feeza_Kulsoom.docx` | Complete lab report with screenshots |
+| `normalization.pdf` | Complete lab report with screenshots |
 | `normalization.sql` | All SQL code for 1NF, 2NF, 3NF tables and queries |
 
 ---
