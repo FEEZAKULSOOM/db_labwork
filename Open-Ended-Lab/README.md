@@ -7,7 +7,7 @@ Database Systems (Open Ended Lab) project
 
 ---
 
-## 📌 R Contents
+## 📌  Contents
 
 This folder contains the complete database design, relational implementation, SQL scripts for the **Car Rental Management System** , Report and screenshots of queries:
 
