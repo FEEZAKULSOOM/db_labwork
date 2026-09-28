@@ -15,7 +15,7 @@ This folder contains the complete database design, relational implementation, an
 * — Multi-table `JOIN` queries for relational data retrieval and reporting.
 *  — `vw_ConsolidatedRentalReport` for unified business auditing.
 *  — Stored procedure `sp_RegisterNewRental` for automated booking and duration/cost calculation.
-*— Automated trigger `trg_AfterRentalComplete` to mark vehicles as `Available` upon rental completion.
+*  — Automated trigger `trg_AfterRentalComplete` to mark vehicles as `Available` upon rental completion.
 *  — B-Tree indexing (`idx_rental_customer`) and `EXPLAIN` query execution analysis.
 *  — Normalization breakdown (1NF to 3NF) and entity-relationship specifications.
 
